@@ -3,7 +3,6 @@
 ## Problem statement
 To develop a pipeline utilizing NLP-based approach, which can transform unstructured, potentially faulty OCR output into a structured Python list of dictionaries, adhering to the specified format:
 [{"parameter": "iron", "value": 5.3, "unit": "mmol/mL"}, ...]
-```
 
 ### Key Considerations
 - Data Unstructuredness and OCR Faults: The input data will be highly unstructured with potential inaccuracies due to OCR errors.
