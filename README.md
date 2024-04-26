@@ -11,3 +11,10 @@ To develop a pipeline utilizing NLP-based approach, which can transform unstruct
 - Date Sensitivity: Focus solely on the latest test results, disregarding earlier data to ensure relevance and accuracy.
 - Data Integrity: Aim for a data integrity level exceeding 90% to ensure reliability.
 
+
+## Challenges
+- OCR data recieved is unstructured medical Data.
+- Defining which entries are relavent when structuring data.
+- Creating Name-entity relationship.
+- Adding new rule according to the pattern to the Spacy model.
+- 

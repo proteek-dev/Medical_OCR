@@ -11,6 +11,7 @@
 # regex
 # (\w+ \(\d+.\d+.\d+.\d+\) \w+.*$)
 # (\w+ \(\d+.\d+\) \w+.*$)
+# (\w+ \w \d+ \w+.*$)
 
 import spacy
 from spacy.pipeline import EntityRuler
@@ -43,6 +44,7 @@ def process_document(file_path):
     results = []
 
     # Logic to extract parameters, values, and units
+    import pdb; pdb.set_trace()
     for ent in doc.ents:
         if ent.label_ == "TEST":
             # Find the next token that is a digit (value) and the following unit
@@ -58,7 +60,7 @@ def process_document(file_path):
     return results
 
 # Example usage
-file_path = "OCR_raw_samples/0ab9800e-bc9a-4388-aaa2-d4fc05e7d111.txt"
+file_path = "OCR_raw_samples/0b8706dc-c9af-4c6b-887d-2f85b5a511e7.txt"
 output = process_document(file_path)
 print(json.dumps(output, indent=2))
 
