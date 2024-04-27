@@ -17,4 +17,7 @@ To develop a pipeline utilizing NLP-based approach, which can transform unstruct
 - Defining which entries are relavent when structuring data.
 - Creating Name-entity relationship.
 - Adding new rule according to the pattern to the Spacy model.
-- 
+- Extracting Unit Pattern from the file.
+
+## Explaination
+

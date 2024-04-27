@@ -44,7 +44,7 @@ def process_document(file_path):
     results = []
 
     # Logic to extract parameters, values, and units
-    import pdb; pdb.set_trace()
+
     for ent in doc.ents:
         if ent.label_ == "TEST":
             # Find the next token that is a digit (value) and the following unit
