@@ -21,3 +21,20 @@ To develop a pipeline utilizing NLP-based approach, which can transform unstruct
 
 ## Explaination
 
+#### File: extract.py
+##### Description; 
+We use Spacy library of NLP to extract information from the medical OCR document. As we are provided with X1.json file with all the parameters specification which is needed to be identified from the unstructured medical document. We create a Entity Ruler to add custom rules to the NLP Pipeline, which creates a label pattern for all the "Synonyms" mentioned in X1.json file. 
+```
+# Function to add custom rules based on the synonyms in JSON
+def add_custom_rules():
+    with open("OCR_raw_samples/X1.json", "r") as file:
+        data = json.load(file)
+        patterns = []
+        for entry in data:
+            for synonym in entry["Synonyms"]:
+                patterns.append({"label": "TEST", "pattern": synonym})
+        ruler.add_patterns(patterns)
+
+# Load custom rules
+add_custom_rules()
+```
