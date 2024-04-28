@@ -1,0 +1,122 @@
+[
+    {
+        "parameter": "Erythrocytes",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "RBCs",
+        "value": "78.0-98.0",
+        "unit": null
+    },
+    {
+        "parameter": "Hb",
+        "value": "7.3",
+        "unit": null
+    },
+    {
+        "parameter": "Neutrophils",
+        "value": "1.0-4.0",
+        "unit": null
+    },
+    {
+        "parameter": "Monocytes",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Eosinophils",
+        "value": "0.0 - 0.6",
+        "unit": null
+    },
+    {
+        "parameter": "Basophils",
+        "value": "0.05",
+        "unit": null
+    },
+    {
+        "parameter": "Creatinine",
+        "value": "45",
+        "unit": null
+    },
+    {
+        "parameter": "GFR",
+        "value": "18",
+        "unit": null
+    },
+    {
+        "parameter": "anion gap",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "bicarbonate",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "eGFR",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Transferrin Saturation",
+        "value": "30-150",
+        "unit": null
+    },
+    {
+        "parameter": "Iron",
+        "value": "25",
+        "unit": null
+    },
+    {
+        "parameter": "Vitamin D",
+        "value": "1.2-2.0",
+        "unit": null
+    },
+    {
+        "parameter": "Non-HDL Cholesterol",
+        "value": "3.0",
+        "unit": null
+    },
+    {
+        "parameter": "Triglycerides",
+        "value": "2.0",
+        "unit": null
+    },
+    {
+        "parameter": "glucose",
+        "value": "0.0",
+        "unit": null
+    },
+    {
+        "parameter": "Fasting Glucose",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "fasting insulin",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Blood Glucose",
+        "value": "5.9*H",
+        "unit": null
+    },
+    {
+        "parameter": "Haemoglobin",
+        "value": "2.36",
+        "unit": null
+    },
+    {
+        "parameter": "T4",
+        "value": "12.0",
+        "unit": null
+    },
+    {
+        "parameter": "T3",
+        "value": "0.0-1.8",
+        "unit": "U/mL"
+    }
+]

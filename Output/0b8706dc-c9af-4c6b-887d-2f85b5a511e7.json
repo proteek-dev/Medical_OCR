@@ -1,0 +1,142 @@
+[
+    {
+        "parameter": "Erythrocytes",
+        "value": "5",
+        "unit": null
+    },
+    {
+        "parameter": "IgG",
+        "value": "30/01/2024",
+        "unit": "IU/mL"
+    },
+    {
+        "parameter": "Sodium",
+        "value": "135",
+        "unit": null
+    },
+    {
+        "parameter": "Potassium",
+        "value": "95",
+        "unit": null
+    },
+    {
+        "parameter": "Bicarbonate",
+        "value": "21",
+        "unit": null
+    },
+    {
+        "parameter": "Urea",
+        "value": "2.5-7.0",
+        "unit": null
+    },
+    {
+        "parameter": "Creatinine",
+        "value": "1.005",
+        "unit": null
+    },
+    {
+        "parameter": "eGFR",
+        "value": "59",
+        "unit": null
+    },
+    {
+        "parameter": "Phosphate",
+        "value": "15",
+        "unit": "U/L"
+    },
+    {
+        "parameter": "Total Protein",
+        "value": "4.2",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "Triglycerides",
+        "value": "1.5",
+        "unit": "IU/L"
+    },
+    {
+        "parameter": "glucose",
+        "value": "4.7",
+        "unit": null
+    },
+    {
+        "parameter": "Iron",
+        "value": "5.0",
+        "unit": null
+    },
+    {
+        "parameter": "Transferrin",
+        "value": "23",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "Ferritin",
+        "value": "37-48",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "Haemoglobin",
+        "value": "80-100",
+        "unit": null
+    },
+    {
+        "parameter": "MCH",
+        "value": "10.0-15.0",
+        "unit": null
+    },
+    {
+        "parameter": "Neutrophils",
+        "value": "1.0-4.0",
+        "unit": null
+    },
+    {
+        "parameter": "Monocytes",
+        "value": "0.0-1.0",
+        "unit": null
+    },
+    {
+        "parameter": "Eosinophils",
+        "value": "0.07",
+        "unit": null
+    },
+    {
+        "parameter": "Basophils",
+        "value": "0.0-0.3",
+        "unit": null
+    },
+    {
+        "parameter": "NRBC",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Platelets",
+        "value": "31/01/24",
+        "unit": "IU/L"
+    },
+    {
+        "parameter": "Vitamin D",
+        "value": "10 - 20",
+        "unit": null
+    },
+    {
+        "parameter": "WCC",
+        "value": "4.0",
+        "unit": null
+    },
+    {
+        "parameter": "Urate",
+        "value": "2.15-2.55",
+        "unit": null
+    },
+    {
+        "parameter": "Parathyroid Hormone",
+        "value": "4.2",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "T",
+        "value": "3",
+        "unit": null
+    }
+]

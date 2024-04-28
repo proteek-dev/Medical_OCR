@@ -1,0 +1,42 @@
+[
+    {
+        "parameter": "I",
+        "value": "03",
+        "unit": null
+    },
+    {
+        "parameter": "Glycated Hemoglobin",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Glycosylated Hemoglobin",
+        "value": "1",
+        "unit": null
+    },
+    {
+        "parameter": "HbA1c",
+        "value": "7.",
+        "unit": null
+    },
+    {
+        "parameter": "glucose",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "fructosamine",
+        "value": "3",
+        "unit": null
+    },
+    {
+        "parameter": "B12",
+        "value": "6",
+        "unit": null
+    },
+    {
+        "parameter": "hemoglobin",
+        "value": "9",
+        "unit": null
+    }
+]

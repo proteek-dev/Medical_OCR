@@ -1,0 +1,47 @@
+[
+    {
+        "parameter": "PRL",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "IGF-1",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Somatomedin C",
+        "value": "3",
+        "unit": null
+    },
+    {
+        "parameter": "LH",
+        "value": "0.9-3.9 <150",
+        "unit": null
+    },
+    {
+        "parameter": "E2",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Oestradiol",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Testosterone",
+        "value": "2",
+        "unit": null
+    },
+    {
+        "parameter": "Na",
+        "value": "8",
+        "unit": null
+    },
+    {
+        "parameter": "Prolactin",
+        "value": "2",
+        "unit": null
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parameter": "Sodium",
+        "value": "185",
+        "unit": null
+    },
+    {
+        "parameter": "Potassium",
+        "value": "95",
+        "unit": null
+    },
+    {
+        "parameter": "Bicarbonate",
+        "value": "22",
+        "unit": null
+    },
+    {
+        "parameter": "Urea",
+        "value": "4.0-9.0",
+        "unit": null
+    },
+    {
+        "parameter": "Creatinine",
+        "value": "60",
+        "unit": null
+    },
+    {
+        "parameter": "eGFR",
+        "value": "0.70-1.10",
+        "unit": null
+    },
+    {
+        "parameter": "Inorganic Phosphate",
+        "value": "0.70-1.50",
+        "unit": null
+    }
+]

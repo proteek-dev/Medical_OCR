@@ -1,0 +1,127 @@
+[
+    {
+        "parameter": "Amylase",
+        "value": "10",
+        "unit": "U/L"
+    },
+    {
+        "parameter": "PCV",
+        "value": "0.35 - 0.47",
+        "unit": null
+    },
+    {
+        "parameter": "MCH",
+        "value": "4.0",
+        "unit": null
+    },
+    {
+        "parameter": "Neutrophils",
+        "value": "1.0 - 4.0",
+        "unit": null
+    },
+    {
+        "parameter": "Monocytes",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Eosinophils",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Basophils",
+        "value": "28/03/19",
+        "unit": null
+    },
+    {
+        "parameter": "Sodium",
+        "value": "135",
+        "unit": null
+    },
+    {
+        "parameter": "Potassium",
+        "value": "95",
+        "unit": null
+    },
+    {
+        "parameter": "Bicarbonate",
+        "value": "26",
+        "unit": null
+    },
+    {
+        "parameter": "Urea",
+        "value": "2.5 - 8.0",
+        "unit": null
+    },
+    {
+        "parameter": "Creatinine",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "eGFR",
+        "value": "2.15 - 2.55",
+        "unit": null
+    },
+    {
+        "parameter": "Phosphate",
+        "value": "4",
+        "unit": "U/L"
+    },
+    {
+        "parameter": "Erythrocytes",
+        "value": "3.87",
+        "unit": null
+    },
+    {
+        "parameter": "P",
+        "value": "10 - 15",
+        "unit": null
+    },
+    {
+        "parameter": "As",
+        "value": "1615",
+        "unit": null
+    },
+    {
+        "parameter": "glucose",
+        "value": "12.7",
+        "unit": null
+    },
+    {
+        "parameter": "Transferrin",
+        "value": "2.10 - 3.80",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "Ferritin",
+        "value": "111",
+        "unit": null
+    },
+    {
+        "parameter": "B12",
+        "value": "0",
+        "unit": null
+    },
+    {
+        "parameter": "Vitamin B12",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Folate",
+        "value": "4",
+        "unit": null
+    },
+    {
+        "parameter": "Na",
+        "value": "111",
+        "unit": null
+    },
+    {
+        "parameter": "IgG",
+        "value": "4",
+        "unit": null
+    }
+]
