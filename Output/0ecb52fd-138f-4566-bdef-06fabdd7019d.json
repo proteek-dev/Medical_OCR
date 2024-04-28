@@ -1,0 +1,122 @@
+[
+    {
+        "parameter": "I",
+        "value": "2.31 2.30",
+        "unit": null
+    },
+    {
+        "parameter": "MCH",
+        "value": "4.0",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "Neutrophils",
+        "value": "0.4",
+        "unit": null
+    },
+    {
+        "parameter": "Eosinophils",
+        "value": "0.7",
+        "unit": null
+    },
+    {
+        "parameter": "Basophils",
+        "value": "150 - 450",
+        "unit": null
+    },
+    {
+        "parameter": "B12",
+        "value": "7",
+        "unit": null
+    },
+    {
+        "parameter": "Sodium",
+        "value": "135",
+        "unit": null
+    },
+    {
+        "parameter": "Potassium",
+        "value": "95",
+        "unit": null
+    },
+    {
+        "parameter": "Bicarbonate",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "Urea",
+        "value": "3.5",
+        "unit": null
+    },
+    {
+        "parameter": "Creatinine",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "eGFR",
+        "value": "09.11.23",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "glucose",
+        "value": null,
+        "unit": null
+    },
+    {
+        "parameter": "albumin",
+        "value": "3.0 - 7.7",
+        "unit": null
+    },
+    {
+        "parameter": "Hb",
+        "value": "3",
+        "unit": null
+    },
+    {
+        "parameter": "Chol/HDL",
+        "value": "1.0",
+        "unit": null
+    },
+    {
+        "parameter": "LDL Cholesterol",
+        "value": "1.8",
+        "unit": null
+    },
+    {
+        "parameter": "Non-HDL Cholesterol",
+        "value": "2.0",
+        "unit": null
+    },
+    {
+        "parameter": "Transferrin",
+        "value": "14",
+        "unit": "g/L"
+    },
+    {
+        "parameter": "Ferritin",
+        "value": "30 - 300",
+        "unit": null
+    },
+    {
+        "parameter": "Iron",
+        "value": "10/06/21",
+        "unit": null
+    },
+    {
+        "parameter": "Vitamin B12",
+        "value": "526",
+        "unit": null
+    },
+    {
+        "parameter": "Folate",
+        "value": "350",
+        "unit": null
+    },
+    {
+        "parameter": "Vitamin D",
+        "value": "686",
+        "unit": null
+    }
+]
