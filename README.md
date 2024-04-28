@@ -48,9 +48,9 @@ def add_matcher_patterns(matcher):
     matcher.add("unit", [pattern])
 ```
 In function process_file, a dictionary called drug_data stores each parameter defined by "TEST" label along with lists of its values and units. This structure makes it easy to add new values and units to each parameter.
-**Efficiency** By checking if a parameter already exists before creating a new entry, this code avoids duplicating parameters and simplifies adding values and units.
-**Scoping:** The variable current_parameter is used to keep track of the current drug parameter being processed. It helps in associating values and units correctly, assuming the data follows a logical order (parameter first, then values, then units). If the sequence is disrupted, current_parameter helps prevent incorrect associations.
-**Error Handling:** This code assumes that the sequence of parameters, values, and units in the document is orderly and consistent. If this might not be the case, additional error handling could be added to check for missing data or mismatches.
+- **Efficiency** By checking if a parameter already exists before creating a new entry, this code avoids duplicating parameters and simplifies adding values and units.
+- **Scoping:** The variable current_parameter is used to keep track of the current drug parameter being processed. It helps in associating values and units correctly, assuming the data follows a logical order (parameter first, then values, then units). If the sequence is disrupted, current_parameter helps prevent incorrect associations.
+- **Error Handling:** This code assumes that the sequence of parameters, values, and units in the document is orderly and consistent. If this might not be the case, additional error handling could be added to check for missing data or mismatches.
 ```
 drug_data = {}
 
