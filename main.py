@@ -22,9 +22,6 @@ def add_custom_rules():
         # print(patterns)
         ruler.add_patterns(patterns)
 
-# Load custom rules
-# add_custom_rules()
-
 def add_matcher_patterns(matcher):
     # Define the pattern for matching units
     pattern = [{"LOWER": {"IN": ["iu", "g", "mmol", "u"]}},
@@ -55,7 +52,7 @@ def process_file(file_path):
 
     for ent in doc.ents:
         if ent.label_ == "TEST":
-            # Start a new entry for this parameter if it doesn't exist
+            # a new entry for this parameter if it doesn't exist
             if ent.text not in drug_data:
                 drug_data[ent.text] = {"values": [], "units": []}
             # Focus on this parameter for subsequent values and units
@@ -107,7 +104,6 @@ def save_output(output_data, file_name):
 
     
 if __name__ == "__main__":
-    # get file from sys.argv
     if len(sys.argv) < 2:
         print("Please provide a file path to process")
         sys.exit(1)
